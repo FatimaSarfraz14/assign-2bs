@@ -51,7 +51,6 @@ a {
 }
 
 #h:hover {
-    background-color: white;
     text-decoration: underline rgb(1, 1, 202);
 }
 
